@@ -1,4 +1,4 @@
-package com.gama;
+package com.gama.lox;
 
 class Token {
     final TokenType type;

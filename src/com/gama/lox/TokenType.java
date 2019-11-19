@@ -1,4 +1,4 @@
-package com.gama;
+package com.gama.lox;
 
 public enum TokenType {
     // Single-character tokens.

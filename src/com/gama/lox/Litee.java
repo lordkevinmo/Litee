@@ -1,4 +1,4 @@
-package com.gama;
+package com.gama.lox;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
