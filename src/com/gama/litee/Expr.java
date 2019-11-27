@@ -1,6 +1,10 @@
-package com.gama.lox;
+package com.gama.litee;
 
 abstract class Expr {
+
+    public interface Visitor<T> {
+    }
+
     static class Binary extends Expr {
         Binary(Expr left, Token operator, Expr right) {
             this.left = left;

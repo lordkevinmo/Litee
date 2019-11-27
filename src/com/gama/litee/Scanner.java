@@ -1,11 +1,11 @@
-package com.gama.lox;
+package com.gama.litee;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.gama.lox.TokenType.*;
+import static com.gama.litee.TokenType.*;
 
 //TODO: 1. Add support to Litee scanner for C-style /* */ block comments.
 //      2. Make sure to handle new lines in them

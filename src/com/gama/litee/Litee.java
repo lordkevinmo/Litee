@@ -1,4 +1,4 @@
-package com.gama.lox;
+package com.gama.litee;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
